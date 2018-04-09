@@ -1,0 +1,5 @@
+# ingnore the depots
+**/bin
+**/include
+**/lib
+**/local
