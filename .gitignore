@@ -3,3 +3,9 @@
 **/include
 **/lib
 **/local
+**/node_modules
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
